@@ -1,2 +1,2 @@
-<b><a><title>SocialHeads
+<b><a><h1>SocialHeads
 
