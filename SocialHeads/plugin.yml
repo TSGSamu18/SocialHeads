@@ -1,0 +1,19 @@
+name: SocialHeads
+main: tsg.socialheads.main.SocialHeads
+version: 1.0
+author: TSGSamu18
+dependence: [HeadDatabase]
+permission:
+    Listeners:
+       placehead: socialheads.placehead
+       breakhead: socialheads.breakhead
+       interactwithhead: socialheads.interacthead
+    Commands:
+       help: socialheads.help
+       list: socialheads.list
+       idlist: socialheads.idlist
+       reload: socialheads.reload
+       save: socialheads.save
+       getlink: socialheads.getlink
+       removelink: socialheads.removelink
+       setlink: socialheads.setlink

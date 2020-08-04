@@ -1,0 +1,12 @@
+command:
+  Main: "socialheads"
+  Aliases:
+     - "socialhead"
+     - "sh"     
+idList: 
+   #@Param HeadId HeadType
+   - 4320:DISCORD
+   - 5648:DISCORD
+Updater:
+  Check: true
+  AlertOnJoin: true
