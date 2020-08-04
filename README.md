@@ -1,2 +1,2 @@
-<b>SocialHeads\>
+<b>SocialHeads
 
